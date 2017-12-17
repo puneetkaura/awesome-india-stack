@@ -1,4 +1,4 @@
-**WORK IN PROGRESS WILL REMOVE THIS WHEN THIS IS USABLE**
+**WORK IN PROGRESS(Will be populated by 25th December, 2017. Please Star it to get updates)
 ---
 # Awesome India Stack - *Build for India* 
 ## List of of Developer resources which makes building applications for India easier.
